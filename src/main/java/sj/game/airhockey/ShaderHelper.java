@@ -1,10 +1,6 @@
 package sj.game.airhockey;
 
-import android.opengl.GLES10;
 import android.opengl.GLES20;
-import android.util.Log;
-
-import javax.microedition.khronos.opengles.GL10;
 
 import static android.opengl.GLES20.GL_LINK_STATUS;
 import static android.opengl.GLES20.glAttachShader;
